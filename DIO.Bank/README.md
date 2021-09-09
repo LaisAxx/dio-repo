@@ -1,6 +1,6 @@
 # Dio Bank
 
-Projeto Dio Bank é uma aplicação de transferência bancárias com .NET, para treinar conceitos de orientação a objeto na prática.
+Projeto Dio Bank é uma aplicação de transferência bancárias com .NET, para treinar conceitos de orientação a objetos na prática.
 
 ### Features
 
