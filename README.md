@@ -1,2 +1,2 @@
-# dio-repo
-Repositório para projeto em c#
+# Projetos Desenvolvidos na Digital Innovation One 
+Projetos na linguagem c# e javascript
